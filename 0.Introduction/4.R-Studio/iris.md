@@ -7,7 +7,7 @@ rkofler
 
 <figure>
 <img
-src="/home/kofler/projects/schule/2023.24/DSAI/Rmarkdown/images/iris_grw.jpg"
+src="https://raw.githubusercontent.com/htl-spg/dsai/iris/0.Introduction/4.R-Studio/images/iris_grw.jpg"
 style="height:20.0%" alt="Iris, Weinviertel" />
 <figcaption aria-hidden="true">Iris, Weinviertel</figcaption>
 </figure>
